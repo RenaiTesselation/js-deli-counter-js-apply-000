@@ -11,6 +11,20 @@ function takeANumber(katzDeliLine, cName)
   return returner;
 }
 
+function takeANumber2(katzDeliLine)
+{
+ var customerCount = 0;
+ 
+  
+}
+
+
+
+
+
+
+
+
 function nowServing(katzDeliLine)
 {
   //checks to see if there is anyone in the line
