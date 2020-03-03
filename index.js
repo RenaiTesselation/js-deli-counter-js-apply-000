@@ -23,7 +23,7 @@ function takeANumber2(katzDeliLine)
   //store current line position
   var linePos=(katzDeliLine.length -1);
   
-  var returner =(`Welcome, customer ${katzDeliLine[linePos]}, you are number ${katzDeliLine.length} in line` );
+  var returner =(`Welcome, customer ${customerCount}, you are number ${katzDeliLine.length} in line` );
  
   
 }
