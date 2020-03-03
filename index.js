@@ -11,13 +11,11 @@ function takeANumber(katzDeliLine, cName)
   return returner;
 }
 
- var customerCount;
-function takeANumber2(katzDeliLine, customerCount)
+ var customerCount = 0;
+function takeANumber2(katzDeliLine)
 {
-  
   //katzDeliLine [1,1]
   //initiallize customerCount
-
  //increment customer count
  customerCount++;
  //push customer number to array
