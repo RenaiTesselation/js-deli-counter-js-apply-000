@@ -14,8 +14,12 @@ function takeANumber(katzDeliLine, cName)
 function takeANumber2(katzDeliLine)
 {//initiallize customerCount
  var customerCount = 0;
+ //increment customer count
  customerCount++;
- 
+ //push customer number to array
+  katzDeliLine.push(customerCount);
+  //store current line position
+  var linePos=(katzDeliLine.length -1);
  
   
 }
