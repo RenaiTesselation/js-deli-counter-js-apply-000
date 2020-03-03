@@ -14,7 +14,7 @@ function takeANumber(katzDeliLine, cName)
 function takeANumber2(katzDeliLine)
 {
   
-  //katzDeliLine [1]
+  //katzDeliLine [1,2]
   //initiallize customerCount
  var customerCount = 0;
  //increment customer count
